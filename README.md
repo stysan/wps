@@ -1,2 +1,2 @@
-# wps
+# WaterPS
 WaterPS official website
